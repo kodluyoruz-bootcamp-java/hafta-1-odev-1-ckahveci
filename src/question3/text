@@ -1,0 +1,7 @@
+
+Contructure'lar private olabilirler. Private metodlara aynı pakatte bulunan diğer sınıflar erişemez.
+Başka bir sınıfta main metodu içide private contucture'a sahip bir sınıftan nesne üretemeyiz. Private
+ constructure tek sistem çalıştığı sürece tek bir taslak kullanmak için oluşturulur. Sürekli yeni
+ nesne üretilmez sadece 1 tane üretilir ve program boyunca o kullanılır.
+
+
